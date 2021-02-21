@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.item-menu {
+  @apply text-lg text-white hover:bg-yellow-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium;
+}
