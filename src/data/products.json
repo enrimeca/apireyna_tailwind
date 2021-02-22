@@ -1,0 +1,24 @@
+{
+  "products" : [
+    {
+      "name": "Miel de abeja",
+      "image": "/images/miel.jpg",
+      "description": "La miel es una excelente fuente de energía, pues contiene azúcares sencillos (glucosa y fructosa) utilizables rápidamente por el organismo."
+    },
+    {
+      "name": "Algarrobina",
+      "image": "/images/algarrobina.jpg",
+      "description": "Es rica en vitamina A y calcio, además de contener potasio, magnesio y hierro, entre otras sustancias."
+    },
+    {
+      "name": "Polen",
+      "image": "/images/polen.jpg",
+      "description": "Suplemento nutricional que contiene aminoácidos esenciales, siendo una excelente fuente de proteína vegetal."
+    },
+    {
+      "name": "Propóleo",
+      "image": "/images/propoleo.jpg",
+      "description": "Presenta propiedades antimicrobianas y antibacterianas. Por lo que es ideal para tratar afecciones de las vías respiratorias."
+    }
+  ]
+}

@@ -3,7 +3,7 @@ import Header from './index'
 import data from '../../data/header.json'
 
 export default {
-  title: 'Component/Nav',
+  title: 'Component/Header',
   component: Header
 };
 

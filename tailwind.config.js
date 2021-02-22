@@ -10,6 +10,13 @@ module.exports = {
       gray: colors.gray,
       red: colors.red
     },
+    height: {
+      '6': '1.5rem',
+      '16': '4rem',
+      '64': '16rem',
+      '96': '24rem',
+      '120': '30rem'
+    },
     extend: {},
   },
   variants: {
